@@ -1,5 +1,8 @@
 this is hugo
 
+https://irankiugama.lt/hidrauliniai-cilindrai 
+
+
 Edit & Test	main	Hugo source code, Markdown, templates, CSS, etc.
 Build	main	Generate static HTML in public/
 Deploy	gh-pages	Only public/ contents → live on Pages
